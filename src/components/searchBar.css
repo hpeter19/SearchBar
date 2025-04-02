@@ -20,3 +20,6 @@ input{
 input:focus{
     outline: none;
 }
+#search-icon{
+    color: rgb(169, 59, 9);
+}
