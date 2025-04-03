@@ -13,7 +13,7 @@ function App() {
     <div className='App'>
        <div className='search-bar-container'>
               <SearchBar  setResults={setResults}/>
-              <SearchResultsList />
+              <SearchResultsList results={results} />
        </div>
     </div>
    );
